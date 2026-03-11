@@ -13,13 +13,11 @@
 
 ## 🛠️ Stack & Outils
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,html&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -27,15 +25,34 @@
 
 <div align="center">
 
-![Erwann's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErwannL&show_icons=true&theme=tokyonight&hide_border=true)
+![Erwann's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErwannL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErwannL&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErwannL&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
 
 </div>
 
 ---
 
-## 🚀 Projets
+## 💊 Projet de fin d'études — PharmaXcess
+
+<div align="center">
+
+> **Rendre les médicaments accessibles 24h/24, sans file d'attente.**
+
+</div>
+
+PharmaXcess est mon **projet de fin d'études (EIP)** — une solution complète en deux parties :
+
+- 🏧 **Un distributeur automatique** intégré en vitrine de pharmacie (comme un ATM), capable de délivrer des médicaments avec ou sans ordonnance via scan de carte vitale et d'identité
+- 📱 **Une application mobile** pour localiser les distributeurs, commander en click-and-collect, valider ses ordonnances, suivre ses traitements et recevoir des rappels de prise
+
+**Stack :** TypeScript · Python · JavaScript · Java
+
+🔗 [Voir le projet → Jessika63/PharmaXcess](https://github.com/Jessika63/PharmaXcess)
+
+---
+
+## 🚀 Autres projets
 
 | Projet | Description | Tech |
 |--------|-------------|------|
