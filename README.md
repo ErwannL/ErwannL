@@ -54,13 +54,29 @@ PharmaXcess est mon **projet de fin d'études (EIP)** — une solution complète
 
 ## 🚀 Projets
 
-### 🤖 Intelligence Artificielle
+### 🧠 Intelligence Artificielle
 
 | Projet | Description | Tech |
 |--------|-------------|------|
+| [NeuroSnake](https://github.com/ErwannL/NeuroSnake) | Snake avec IA entraînée en Deep Q-Learning — réseau de neurones, A* pathfinding, trap avoidance | Python |
 | [ConnectX](https://github.com/ErwannL/ConnectX) | Connect Four avec IA — minimax, alpha-beta pruning, ML et neural network | Python |
+| [WordleMind](https://github.com/ErwannL/WordleMind) | Wordle multimodes — IA LLM (FLAN-T5), solver par fréquence, support EN/FR | Python |
+| [ThinkTacToe](https://github.com/ErwannL/ThinkTacToe) | TicTacToe 3x3 / 5x5 avec IA — minimax, alpha-beta pruning, iterative deepening | Python |
 | [AIElectivesProject](https://github.com/ErwannL/AIElectivesProject) | Correction d'orientation d'images + OCR via Tesseract et OpenCV | Python |
 | [Fitbit](https://github.com/ErwannL/Fitbit) | Analyse de données de santé Fitbit — data science & visualisation | Python |
+
+### 🤖 Bots & Automatisation
+
+| Projet | Description | Tech |
+|--------|-------------|------|
+| [EpiTrelloBot](https://github.com/ErwannL/EpiTrelloBot) | Bot Discord qui synchronise et notifie les updates Trello en temps réel | Python |
+
+### 🎮 Jeux & Applications
+
+| Projet | Description | Tech |
+|--------|-------------|------|
+| [Dames-la-maison](https://github.com/ErwannL/Dames-la-maison) | Application Android de jeu de dames — 23 releases, CI/CD avec GitHub Actions | HTML · Java |
+| [Fortress-of-Cards](https://github.com/ErwannL/Fortress-of-Cards) | Jeu de cartes stratégique | - |
 
 ### 🦾 Robotique & Systèmes embarqués
 
