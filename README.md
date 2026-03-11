@@ -25,9 +25,9 @@
 
 <div align="center">
 
-![Erwann's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErwannL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
+![Erwann's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErwannL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=stars,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErwannL&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErwannL&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,tex)
 
 </div>
 
@@ -48,18 +48,31 @@ PharmaXcess est mon **projet de fin d'études (EIP)** — une solution complète
 
 **Stack :** TypeScript · Python · JavaScript · Java
 
-🔗 [Voir le projet → Jessika63/PharmaXcess](https://github.com/Jessika63/PharmaXcess)
+🔗 [Voir le projet → Jessika63/PharmaXcess](https://github.com/Jessika63/PharmaXcess) · [Ma copie → ErwannL/Epitech_repos](https://github.com/ErwannL/Epitech_repos/tree/main/tek_4/sem_7/G-EIP-700-LYN-7-1-eip-jessica.ebely)
 
 ---
 
-## 🚀 Autres projets
+## 🚀 Projets
+
+### 🤖 Intelligence Artificielle
 
 | Projet | Description | Tech |
 |--------|-------------|------|
-| [Epitech_repos](https://github.com/ErwannL/Epitech_repos) | 📚 Tous mes projets sur 5 ans — tek1 → tek4 | C · C++ · JS · Python |
-| [AIElectivesProject](https://github.com/ErwannL/AIElectivesProject) | Projet IA | Python |
-| [ConnectX](https://github.com/ErwannL/ConnectX) | Jeu de type Connect 4 | Python |
-| [RobotsElective](https://github.com/ErwannL/RobotsElective) | Robotique | C++ |
+| [ConnectX](https://github.com/ErwannL/ConnectX) | Connect Four avec IA — minimax, alpha-beta pruning, ML et neural network | Python |
+| [AIElectivesProject](https://github.com/ErwannL/AIElectivesProject) | Correction d'orientation d'images + OCR via Tesseract et OpenCV | Python |
+| [Fitbit](https://github.com/ErwannL/Fitbit) | Analyse de données de santé Fitbit — data science & visualisation | Python |
+
+### 🦾 Robotique & Systèmes embarqués
+
+| Projet | Description | Tech |
+|--------|-------------|------|
+| [RobotsElective](https://github.com/ErwannL/RobotsElective) | Programmation de robots physiques en équipe | C++ |
+
+### 🗂️ Tous mes projets sur 5 ans
+
+| Projet | Description | Tech |
+|--------|-------------|------|
+| [Epitech_repos](https://github.com/ErwannL/Epitech_repos) | 📚 Archive complète tek1 → tek4 — des centaines de projets | C · C++ · JS · Python · TS |
 
 ---
 
