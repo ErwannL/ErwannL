@@ -75,8 +75,8 @@ PharmaXcess est mon **projet de fin d'études (EIP)** — une solution complète
 
 | Projet | Description | Tech |
 |--------|-------------|------|
+| [gymtrack](https://github.com/ErwannL/gymtrack) | App de suivi de musculation/cardio (FR/EN) : séances en direct, circuits/templates, stats avancées (PR, volume, heatmap), planification, export/import. [Latest release](https://github.com/ErwannL/gymtrack/releases/latest) · [APK latest](https://github.com/ErwannL/gymtrack/releases/latest/download/gymtrack-release.apk) | JavaScript · React · Capacitor |
 | [Dames-la-maison](https://github.com/ErwannL/Dames-la-maison) | Application Android de jeu de dames — 23 releases, CI/CD avec GitHub Actions | HTML · Java |
-| [Fortress-of-Cards](https://github.com/ErwannL/Fortress-of-Cards) | Jeu de cartes stratégique | - |
 
 ### 🦾 Robotique & Systèmes embarqués
 
@@ -84,11 +84,11 @@ PharmaXcess est mon **projet de fin d'études (EIP)** — une solution complète
 |--------|-------------|------|
 | [RobotsElective](https://github.com/ErwannL/RobotsElective) | Programmation de robots physiques en équipe | C++ |
 
-### 🗂️ Tous mes projets sur 5 ans
+### 🗂️ Projets scolaires sur 5 ans
 
 | Projet | Description | Tech |
 |--------|-------------|------|
-| [Epitech_repos](https://github.com/ErwannL/Epitech_repos) | 📚 Archive complète tek1 → tek4 — des centaines de projets | C · C++ · JS · Python · TS |
+| [Epitech_repos](https://github.com/ErwannL/Epitech_repos) | 📚 Archive complète tek1 → tek4 — uniquement mes projets scolaires Epitech | C · C++ · JS · Python · TS |
 
 ---
 
