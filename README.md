@@ -87,7 +87,7 @@ Mon **projet de fin d'études Epitech (EIP)** — deux briques :
 
 **Backend & Data**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,elasticsearch&theme=dark)](https://skillicons.dev)
 
 **DevOps & Infra**
 
@@ -137,13 +137,30 @@ Mon **projet de fin d'études Epitech (EIP)** — deux briques :
 <div align="center">
 
 <a href="https://github.com/ErwannL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErwannL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=stars,contribs&cache_seconds=86400" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ErwannL&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/main/profile-summary-card-output/tokyo-night/0-profile-details.svg" alt="Profile details" />
+  <img height="180em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/main/profile-summary-card-output/tokyo-night/2-most-commit-language.svg" alt="Most used languages" />
 </a>
 
+<br/><br/>
+
 <a href="https://github.com/ErwannL">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwannL&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,tex&langs_count=10&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com/?user=ErwannL&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
+
+<br/><br/>
+
+**4+ ans de code · 20+ projets livrés · actif tous les jours**
+
+<br/>
+
+### 💻 Mes langages préférés
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
