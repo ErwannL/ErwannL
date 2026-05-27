@@ -137,8 +137,8 @@ Mon **projet de fin d'études Epitech (EIP)** — deux briques :
 <div align="center">
 
 <a href="https://github.com/ErwannL">
-  <img height="180em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/main/profile-summary-card-output/tokyo-night/0-profile-details.svg" alt="Profile details" />
-  <img height="180em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/main/profile-summary-card-output/tokyo-night/2-most-commit-language.svg" alt="Most used languages" />
+  <img height="180em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img height="180em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 </a>
 
 <br/><br/>
