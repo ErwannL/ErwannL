@@ -55,15 +55,13 @@
 
 Un kanban classique branché sur vos outils (Jira, Trello, GitHub, votre modèle d'IA), construit de zéro avec mon co-fondateur. Il est en **bêta ouverte** sur **[orqea.dev](https://orqea.dev)** et on le construit avec ses premiers utilisateurs :
 
-| | |
-|---|---|
-| 🔒 | **Chiffrement de bout en bout** des boards (modes `serverOnly` / `twoTierStrict` / `passphraseOnly`) |
-| 🌐 | **Temps réel** Socket.IO — drag & drop, commentaires, notifications instantanées |
-| 🔌 | **Intégrations** GitHub · GitLab · Trello · Jira (import de tâches en quelques clics) |
-| 🔐 | **OAuth** Google · GitHub · Discord |
-| 🤖 | **Agents IA par carte** — « Lancer l'agent » : la carte devient du code, la CI le valide, une pull request est ouverte |
-| 🌍 | **i18n** FR / EN sur tout le produit |
-| 🐳 | **Déploiement Docker** — nginx (front) + Express (back) + MySQL 8, reverse-proxy WSS |
+- 🔒 **Chiffrement de bout en bout** des boards (modes `serverOnly` / `twoTierStrict` / `passphraseOnly`)
+- 🌐 **Temps réel** Socket.IO — drag & drop, commentaires, notifications instantanées
+- 🔌 **Intégrations** GitHub · GitLab · Trello · Jira (import de tâches en quelques clics)
+- 🔐 **OAuth** Google · GitHub · Discord
+- 🤖 **Agents IA par carte** — « Lancer l'agent » : la carte devient du code, la CI le valide, une pull request est ouverte
+- 🌍 **i18n** FR / EN sur tout le produit
+- 🐳 **Déploiement Docker** — nginx (front) + Express (back) + MySQL 8, reverse-proxy WSS
 
 **Stack :** `Node.js (ESM)` · `Express 5` · `React` · `Tailwind CSS` · `MySQL 8` · `Socket.IO` · `JWT` · `Docker Compose` · `nginx`
 
@@ -139,21 +137,9 @@ Mon **projet de fin d'études Epitech** — deux briques :
 
 <div align="center">
 
-<a href="https://github.com/ErwannL">
-  <img height="170em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-</a>
-<br/>
-<a href="https://github.com/ErwannL">
-  <img height="170em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
-  <img height="170em" src="https://raw.githubusercontent.com/ErwannL/ErwannL/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-</a>
+<img src="assets/github-stats.svg" alt="36 repos publics · 1 379 commits publics · TypeScript, Python, JavaScript…" width="90%" />
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErwannL/ErwannL/snake/snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ErwannL/ErwannL/snake/snake-light.svg" />
-</picture>
+<sub>Langages par nombre de repos publics.</sub>
 
 </div>
 

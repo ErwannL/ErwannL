@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 840 210" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="839" height="209" rx="12" fill="#1a1b27" stroke="#2f334d"/>
+<text x="28" y="40" fill="#70a5fd" font-size="18" font-weight="700">Erwann Laplante — GitHub</text>
+<text x="28" y="88" fill="#bf91f3" font-size="28" font-weight="700">36</text>
+<text x="28" y="110" fill="#a9b1d6" font-size="13">repos publics</text>
+<text x="228" y="88" fill="#bf91f3" font-size="28" font-weight="700">1 379</text>
+<text x="228" y="110" fill="#a9b1d6" font-size="13">commits publics</text>
+<text x="428" y="88" fill="#bf91f3" font-size="28" font-weight="700">8</text>
+<text x="428" y="110" fill="#a9b1d6" font-size="13">langages</text>
+<text x="628" y="88" fill="#bf91f3" font-size="28" font-weight="700">2023</text>
+<text x="628" y="110" fill="#a9b1d6" font-size="13">premier repo public</text>
+<clipPath id="c"><rect x="28" y="132" width="784" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
+<rect x="28.0" y="132" width="318.5" height="10" fill="#3178c6"/>
+<rect x="346.5" y="132" width="220.5" height="10" fill="#3572A5"/>
+<rect x="567.0" y="132" width="98.0" height="10" fill="#f1e05a"/>
+<rect x="665.0" y="132" width="49.0" height="10" fill="#e34c26"/>
+<rect x="714.0" y="132" width="24.5" height="10" fill="#8a9bb0"/>
+<rect x="738.5" y="132" width="24.5" height="10" fill="#f34b7d"/>
+<rect x="763.0" y="132" width="24.5" height="10" fill="#dea584"/>
+<rect x="787.5" y="132" width="24.5" height="10" fill="#DA5B0B"/>
+</g>
+<circle cx="33" cy="162" r="5" fill="#3178c6"/>
+<text x="44" y="166" fill="#a9b1d6" font-size="13">TypeScript <tspan fill="#565f89">41%</tspan></text>
+<circle cx="233" cy="162" r="5" fill="#3572A5"/>
+<text x="244" y="166" fill="#a9b1d6" font-size="13">Python <tspan fill="#565f89">28%</tspan></text>
+<circle cx="433" cy="162" r="5" fill="#f1e05a"/>
+<text x="444" y="166" fill="#a9b1d6" font-size="13">JavaScript <tspan fill="#565f89">12%</tspan></text>
+<circle cx="633" cy="162" r="5" fill="#e34c26"/>
+<text x="644" y="166" fill="#a9b1d6" font-size="13">HTML <tspan fill="#565f89">6%</tspan></text>
+<circle cx="33" cy="186" r="5" fill="#8a9bb0"/>
+<text x="44" y="190" fill="#a9b1d6" font-size="13">C <tspan fill="#565f89">3%</tspan></text>
+<circle cx="233" cy="186" r="5" fill="#f34b7d"/>
+<text x="244" y="190" fill="#a9b1d6" font-size="13">C++ <tspan fill="#565f89">3%</tspan></text>
+<circle cx="433" cy="186" r="5" fill="#dea584"/>
+<text x="444" y="190" fill="#a9b1d6" font-size="13">Rust <tspan fill="#565f89">3%</tspan></text>
+<circle cx="633" cy="186" r="5" fill="#DA5B0B"/>
+<text x="644" y="190" fill="#a9b1d6" font-size="13">Jupyter <tspan fill="#565f89">3%</tspan></text>
+</svg>
