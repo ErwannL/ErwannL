@@ -38,7 +38,7 @@
 
 ---
 
-## ⭐ Orqea — mon projet perso principal
+## ⭐ Orqea — la startup que je co-fonde
 
 <div align="center">
 
@@ -66,6 +66,25 @@ Un kanban classique branché sur vos outils (Jira, Trello, GitHub, votre modèle
 **Stack :** `Node.js (ESM)` · `Express 5` · `React` · `Tailwind CSS` · `MySQL 8` · `Socket.IO` · `JWT` · `Docker Compose` · `nginx`
 
 🧪 **Envie de tester ?** [Rejoins la bêta](https://orqea.dev) — chaque retour compte. Contact : [contact@orqea.dev](mailto:contact@orqea.dev)
+
+---
+
+## 💡 GlowPilot — le projet perso dont je suis le plus fier
+
+> **Your lights. Your atmosphere.** Le pilote local-first de tes rubans LED Bluetooth, sans compte et sans cloud.
+
+Je l'ai écrit pour remplacer l'app officielle Lotus Lantern. Je suis parti des travaux publics sur le protocole BLE des contrôleurs ELK-BLEDOM / ELK-BLEDDM, je l'ai vérifié sur du vrai matériel, puis j'ai construit une vraie app autour :
+
+- 🎨 **Moteur de couleurs** — roue, RGB/HSV, température, calibration par appareil (gains, gamma, ordre des canaux)
+- ✨ **Effets & scènes** — animations calculées, 29 effets natifs, mode musique au micro, enchaînements de scènes en boucle
+- 🖥️ **Automatisation Windows** — *si `Cyberpunk2077.exe` tourne → scène Cyberpunk*, déclenchement par la lecture média, priorités, cooldowns
+- ⏰ **Planification** — réveil lumineux progressif, lever et coucher de soleil, minuteur de sommeil
+- 📱 **Téléphone ↔ PC** — API LAN appairée : le téléphone pilote le ruban via le PC
+- 🧪 **Simulateur et mode test matériel** — tout fonctionne sans ruban, puis chaque commande se vérifie sur le vrai matériel
+
+**Stack :** `TypeScript` · `React` · `Electron` · `Capacitor (Android)` · `Web Bluetooth` · monorepo `apps/` + `packages/`
+
+🔗 [**github.com/ErwannL/GlowPilot**](https://github.com/ErwannL/GlowPilot)
 
 ---
 
@@ -101,8 +120,13 @@ Mon **projet de fin d'études Epitech** — deux briques :
 
 | Projet | Description | Tech |
 |--------|-------------|------|
+| [**ChessArena**](https://github.com/ErwannL/ChessArena) | Échecs PvP / PvE / bot contre bot — bots dont on règle la façon de réfléchir (alpha-bêta, quiescence, critères pondérés), classement Elo détaillé, PWA, Docker, **100 % de couverture de tests** | TypeScript |
 | [**gymtrack**](https://github.com/ErwannL/gymtrack) | Suivi muscu/cardio FR/EN — séances live, templates, stats (PR, volume, heatmap), planification, export/import · [APK](https://github.com/ErwannL/gymtrack/releases/latest/download/gymtrack-release.apk) | React · Capacitor |
 | [**Dames-la-maison**](https://github.com/ErwannL/Dames-la-maison) | Jeu de dames Android — 23 releases, CI/CD GitHub Actions | Java · HTML |
+
+<div align="center">
+  <a href="https://github.com/ErwannL/ChessArena"><img src="https://raw.githubusercontent.com/ErwannL/ChessArena/main/docs/assets/play.png" alt="ChessArena — partie contre un bot" width="80%" /></a>
+</div>
 
 <details>
 <summary><b>🤖 Bots & Robotique · 🗂️ Archives Epitech</b></summary>
@@ -158,6 +182,8 @@ Mon **projet de fin d'études Epitech** — deux briques :
 <div align="center"><a href="https://orqea.dev"><img src="assets/orqea-board-en.png" alt="Orqea board" width="90%" /></a></div>
 
 - 💊 **PharmaXcess** — my Epitech capstone: a 24/7 medicine vending machine plus a companion mobile app.
+- 💡 **GlowPilot** — local-first Bluetooth LED controller (hardware-verified BLE protocol, Windows automation, Android). Electron · React · Capacitor.
+- ♟️ **ChessArena** — chess with tunable-thinking bots and a detailed Elo leaderboard, 100% test coverage.
 - 📱 **gymtrack** — FR/EN Android workout tracker (React + Capacitor).
 - 🧠 **AI side projects** — Deep Q-Learning Snake, Connect-4 minimax/alpha-beta, LLM-powered Wordle.
 
