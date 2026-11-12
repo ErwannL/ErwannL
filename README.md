@@ -2,7 +2,7 @@
 
 # 👋 Erwann Laplante
 
-### Co-fondateur [@Orqea](https://orqea.dev) · Full-Stack Developer · Epitech Lyon
+### Ingénieur informatique @ Bonifay · Co-fondateur [@Orqea](https://orqea.dev) · Diplômé Epitech 2026
 
 *Je construis des produits réels — pas des side-projects abandonnés.*
 <br/>
@@ -12,9 +12,7 @@
 
 [![Orqea](https://img.shields.io/badge/🚀_Orqea-orqea.dev-7c3aed?style=for-the-badge&labelColor=0d1117)](https://orqea.dev)
 [![Email](https://img.shields.io/badge/Contact-erwann.laplante.pro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:erwann.laplante.pro@gmail.com)
-<!-- TODO: décommenter avec ton URL LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erwann_Laplante-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/TON-PROFIL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erwann_Laplante-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/erwann-laplante/)
 [![Profile views](https://komarev.com/ghpvc/?username=ErwannL&style=for-the-badge&color=blueviolet&labelColor=0d1117)](https://github.com/ErwannL)
 
 </div>
@@ -23,30 +21,39 @@
 
 ## 🧠 En ce moment
 
-- 🚀 **Co-fondateur d'[Orqea](https://orqea.dev)** — kanban collaboratif chiffré, alternative à Trello, **en production**
-- 💊 **EIP PharmaXcess** — distributeur automatique de médicaments + app mobile (projet de fin d'études Epitech)
+- 💼 **Ingénieur informatique chez Bonifay** — depuis septembre 2026
+- 🚀 **Co-fondateur d'[Orqea](https://orqea.dev)** — un kanban branché sur toute la chaîne de dev, **en bêta ouverte**
 - 📱 **gymtrack** — app Android FR/EN de suivi muscu/cardio, [APK téléchargeable](https://github.com/ErwannL/gymtrack/releases/latest/download/gymtrack-release.apk)
-- 🎓 **Epitech Lyon** — Master Expert en Technologies de l'Information
 
 ---
 
-## ⭐ Orqea — mon projet principal
+## 🎓 Formation
+
+**Epitech Lyon — Programme Grande École (promo 2026)** · 5 ans après le bac
+
+- 📜 **Diplôme d'Expert en Technologies de l'Information** — Bac+5, **visé par le Ministère de l'Enseignement supérieur et de la Recherche**
+- 🏅 **Titre RNCP niveau 7 « Expert en ingénierie logicielle »** — reconnu par l'État, même niveau qu'un Master
+- 🛠️ Une pédagogie par projets, sans cours magistraux (projets en équipe, stages en entreprise)
+- 💊 Projet de fin d'études (EIP) : **PharmaXcess** (voir plus bas)
+
+---
+
+## ⭐ Orqea — mon projet perso principal
 
 <div align="center">
 
 [![Live](https://img.shields.io/badge/🌐_Live-orqea.dev-7c3aed?style=for-the-badge&labelColor=0d1117)](https://orqea.dev)
 &nbsp;
-[![Status](https://img.shields.io/website?url=https%3A%2F%2Forqea.dev&style=for-the-badge&labelColor=0d1117&label=Status&up_message=online&up_color=22c55e)](https://orqea.dev)
+[![Bêta](https://img.shields.io/badge/Statut-Bêta_ouverte-c026d3?style=for-the-badge&labelColor=0d1117)](https://orqea.dev)
 
-> **Une alternative à Trello — temps réel, chiffrée, et pensée pour les équipes qui prennent leur data au sérieux.**
+> **Un board. Toute votre chaîne de dev derrière.**
+> La carte devient du code, la CI le juge, la pull request vous attend.
 
-<!-- TODO: ajouter une capture ou un GIF dans assets/orqea.png puis décommenter
-<a href="https://orqea.dev"><img src="assets/orqea.png" alt="Aperçu d'Orqea" width="85%" /></a>
--->
+<a href="https://orqea.dev"><img src="assets/orqea-board-fr.png" alt="Board Orqea avec agents IA" width="90%" /></a>
 
 </div>
 
-Un kanban collaboratif démarré de zéro avec mon co-fondateur, aujourd'hui en production sur **[orqea.dev](https://orqea.dev)** :
+Un kanban classique branché sur vos outils (Jira, Trello, GitHub, votre modèle d'IA), construit de zéro avec mon co-fondateur. Il est en **bêta ouverte** sur **[orqea.dev](https://orqea.dev)** et on le construit avec ses premiers utilisateurs :
 
 | | |
 |---|---|
@@ -54,13 +61,13 @@ Un kanban collaboratif démarré de zéro avec mon co-fondateur, aujourd'hui en 
 | 🌐 | **Temps réel** Socket.IO — drag & drop, commentaires, notifications instantanées |
 | 🔌 | **Intégrations** GitHub · GitLab · Trello · Jira (import de tâches en quelques clics) |
 | 🔐 | **OAuth** Google · GitHub · Discord |
-| 🤖 | **Agents IA** par carte (prompts custom, automatisations) |
+| 🤖 | **Agents IA par carte** — « Lancer l'agent » : la carte devient du code, la CI le valide, une pull request est ouverte |
 | 🌍 | **i18n** FR / EN sur tout le produit |
 | 🐳 | **Déploiement Docker** — nginx (front) + Express (back) + MySQL 8, reverse-proxy WSS |
 
 **Stack :** `Node.js (ESM)` · `Express 5` · `React` · `Tailwind CSS` · `MySQL 8` · `Socket.IO` · `JWT` · `Docker Compose` · `nginx`
 
-📬 Partenariat, question, feedback → [contact@orqea.dev](mailto:contact@orqea.dev)
+🧪 **Envie de tester ?** [Rejoins la bêta](https://orqea.dev) — chaque retour compte. Contact : [contact@orqea.dev](mailto:contact@orqea.dev)
 
 ---
 
@@ -156,14 +163,19 @@ Mon **projet de fin d'études Epitech** — deux briques :
 <summary><b>🇬🇧 English version</b></summary>
 <br/>
 
-**Co-founder of [Orqea](https://orqea.dev)** and full-stack developer at Epitech Lyon.
+**Software engineer at Bonifay** (since Sept. 2026) · **Co-founder of [Orqea](https://orqea.dev)** · **Epitech graduate, class of 2026**
 
-- 🚀 **[Orqea](https://orqea.dev)** — an end-to-end encrypted, real-time Kanban (Trello alternative), live in production. Node.js · Express · React · MySQL · Socket.IO · Docker.
+🎓 Epitech's 5-year *Programme Grande École*: a Master's-level degree (Bac+5) approved by the French Ministry of Higher Education, plus a state-registered level-7 (Master's) certification as a software engineering expert.
+
+- 🚀 **[Orqea](https://orqea.dev)** — *One board. Your whole dev chain behind it.* A kanban wired to Jira, Trello, GitHub and your own AI model: the card becomes code, CI judges it, the pull request waits for you. Open beta. Node.js · Express · React · MySQL · Socket.IO · Docker.
+
+<div align="center"><a href="https://orqea.dev"><img src="assets/orqea-board-en.png" alt="Orqea board" width="90%" /></a></div>
+
 - 💊 **PharmaXcess** — my Epitech capstone: a 24/7 medicine vending machine plus a companion mobile app.
 - 📱 **gymtrack** — FR/EN Android workout tracker (React + Capacitor).
 - 🧠 **AI side projects** — Deep Q-Learning Snake, Connect-4 minimax/alpha-beta, LLM-powered Wordle.
 
-Open to opportunities and collaborations — [erwann.laplante.pro@gmail.com](mailto:erwann.laplante.pro@gmail.com)
+Let's connect — [LinkedIn](https://www.linkedin.com/in/erwann-laplante/) · [erwann.laplante.pro@gmail.com](mailto:erwann.laplante.pro@gmail.com)
 
 </details>
 
@@ -173,9 +185,10 @@ Open to opportunities and collaborations — [erwann.laplante.pro@gmail.com](mai
 
 ## 📬 On discute ?
 
-Recruteur, dev, ou un projet où il faut **construire vite et propre** — écris-moi.
+Dev, fondateur, curieux d'Orqea, ou un projet où il faut **construire vite et propre** — écris-moi.
 
 [![Email](https://img.shields.io/badge/✉️_Écris--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:erwann.laplante.pro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/erwann-laplante/)
 [![Orqea](https://img.shields.io/badge/🌐_orqea.dev-7c3aed?style=for-the-badge&labelColor=0d1117)](https://orqea.dev)
 
 <br/>
