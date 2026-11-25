@@ -2,7 +2,7 @@
 
 # 👋 Erwann Laplante
 
-### Ingénieur informatique @ Bonifay · Co-fondateur [@Orqea](https://orqea.dev) · Diplômé Epitech 2026
+### Développeur fullstack @ Bonifay · Co-fondateur [@Orqea](https://orqea.dev) · Diplômé Epitech 2026
 
 *Je construis des produits réels — pas des side-projects abandonnés.*
 <br/>
@@ -21,8 +21,10 @@
 
 ## 🧠 En ce moment
 
-- 💼 **Ingénieur informatique chez Bonifay** — depuis septembre 2026
+- 💼 **Développeur fullstack chez Bonifay** — depuis septembre 2026
 - 🚀 **Co-fondateur d'[Orqea](https://orqea.dev)** — un kanban branché sur toute la chaîne de dev, **en bêta ouverte**
+- ⚔️ **[Ascendrya](https://ascendrya.com)** — RPG idle pixel art (web, Windows, Android), **préinscriptions ouvertes**
+- 📰 **[GachaPulse](https://gachapulse.com)** — média gaming co-créé, **~3 600 visiteurs / mois**
 - 📱 **gymtrack** — app Android FR/EN de suivi muscu/cardio, [APK téléchargeable](https://github.com/ErwannL/gymtrack/releases/latest/download/gymtrack-release.apk)
 
 ---
@@ -53,7 +55,7 @@
 
 </div>
 
-Un kanban classique branché sur vos outils (Jira, Trello, GitHub, votre modèle d'IA), construit de zéro avec mon co-fondateur. Il est en **bêta ouverte** sur **[orqea.dev](https://orqea.dev)** et on le construit avec ses premiers utilisateurs :
+Un kanban classique branché sur vos outils (Jira, Trello, GitHub, votre modèle d'IA), construit de zéro avec mon co-fondateur. Il est en **bêta ouverte** sur **[orqea.dev](https://orqea.dev)** et on cherche ses premiers utilisateurs :
 
 - 🔒 **Chiffrement de bout en bout** des boards (modes `serverOnly` / `twoTierStrict` / `passphraseOnly`)
 - 🌐 **Temps réel** Socket.IO — drag & drop, commentaires, notifications instantanées
@@ -69,11 +71,52 @@ Un kanban classique branché sur vos outils (Jira, Trello, GitHub, votre modèle
 
 ---
 
-## 💡 GlowPilot — le projet perso dont je suis le plus fier
+## ⚔️ Ascendrya — mon jeu, en solo
+
+> **Un RPG idle en pixel art qui tourne dans un coin de ton écran pendant que tu fais autre chose.**
+
+<div align="center">
+<a href="https://ascendrya.com"><img src="assets/ascendrya-wide.png" alt="Ascendrya — fenêtre large" width="90%" /></a>
+
+[![Site](https://img.shields.io/badge/🌐_Site-ascendrya.com-f59e0b?style=for-the-badge&labelColor=0d1117)](https://ascendrya.com)
+&nbsp;
+[![Statut](https://img.shields.io/badge/Statut-Préinscriptions_ouvertes-22c55e?style=for-the-badge&labelColor=0d1117)](https://ascendrya.com)
+</div>
+
+Je le développe seul, avec deux camarades pour la conception du jeu et les tests bêta :
+
+- 🖥️ **3 plateformes** — web, Windows (exe Electron + installateur) et Android (Capacitor)
+- 💾 **Mises à jour sans perte** — la CI installe l'ancienne version, sauvegarde, installe la nouvelle et vérifie que la partie est reprise
+- ⚙️ **CI GitHub Actions** — tests, build et lancement réel de l'exe à chaque push
+- 🌙 **Progression hors ligne**, inventaire, forge, boss, compagnons, i18n
+
+**Stack :** `JavaScript` · `Node.js` · `Electron` · `Capacitor (Android)` · `GitHub Actions`
+
+📱 Sortie sur le **Play Store** en préparation, **Steam** ensuite.
+
+---
+
+## 📰 GachaPulse — média gaming co-créé
+
+> **Actus, guides et tier lists sur les jeux gacha mobiles.**
+
+[![Site](https://img.shields.io/badge/🌐_Site-gachapulse.com-ef4444?style=for-the-badge&labelColor=0d1117)](https://gachapulse.com)
+
+Co-créé avec [Antoine Fillaudeau](https://antoinefld.github.io/curriculum_vitae/) (mon co-fondateur sur Orqea) :
+
+- 📈 **~3 600 visiteurs uniques et ~20 000 pages vues par mois**, 64 % sur mobile
+- ⚡ **Rendu côté serveur** pour le SEO, analytics maison, notifications push, intégration YouTube
+- 🛠️ **Panel d'administration complet** — contenus, validation, personnages, utilisateurs
+
+**Stack :** `React 19` · `TypeScript` · `Vite` · `Fastify` · `PostgreSQL` · `Docker` · `nginx`
+
+---
+
+## 💡 GlowPilot — un petit projet perso pour le fun
 
 > **Your lights. Your atmosphere.** Le pilote local-first de tes rubans LED Bluetooth, sans compte et sans cloud.
 
-Je l'ai écrit pour remplacer l'app officielle Lotus Lantern. Je suis parti des travaux publics sur le protocole BLE des contrôleurs ELK-BLEDOM / ELK-BLEDDM, je l'ai vérifié sur du vrai matériel, puis j'ai construit une vraie app autour :
+Je l'ai écrit pour remplacer l'app officielle Lotus Lantern (projet expérimental, encore plein de bugs 🐛). Je suis parti des travaux publics sur le protocole BLE des contrôleurs ELK-BLEDOM / ELK-BLEDDM, je l'ai vérifié sur du vrai matériel, puis j'ai construit une vraie app autour :
 
 - 🎨 **Moteur de couleurs** — roue, RGB/HSV, température, calibration par appareil (gains, gamma, ordre des canaux)
 - ✨ **Effets & scènes** — animations calculées, 29 effets natifs, mode musique au micro, enchaînements de scènes en boucle
@@ -97,7 +140,7 @@ Mon **projet de fin d'études Epitech** — deux briques :
 - 🏧 **Un distributeur automatique** en vitrine de pharmacie — délivre des médicaments avec ou sans ordonnance via scan carte vitale + pièce d'identité
 - 📱 **Une app mobile** — carte des distributeurs, click-and-collect, validation d'ordonnances, suivi de traitement, rappels de prise
 
-**Stack :** `TypeScript` · `Python` · `Java` · `JavaScript`
+**Stack :** `React Native` · `TypeScript` · `React` · `Python / Flask` · `MySQL` · `Stripe` · OCR (`OpenCV` · `PaddleOCR` · `Tesseract`)
 
 🔗 [Repo officiel → Jessika63/PharmaXcess](https://github.com/Jessika63/PharmaXcess) · [Ma copie de travail](https://github.com/ErwannL/Epitech_repos/tree/main/tek_4/sem_7/G-EIP-700-LYN-7-1-eip-jessica.ebely)
 
@@ -173,7 +216,7 @@ Mon **projet de fin d'études Epitech** — deux briques :
 <summary><b>🇬🇧 English version</b></summary>
 <br/>
 
-**Software engineer at Bonifay** (since Sept. 2026) · **Co-founder of [Orqea](https://orqea.dev)** · **Epitech graduate, class of 2026**
+**Fullstack developer at Bonifay** (since Sept. 2026) · **Co-founder of [Orqea](https://orqea.dev)** · **Epitech graduate, class of 2026**
 
 🎓 Epitech's 5-year *Programme Grande École*: a Master's-level degree (Bac+5) approved by the French Ministry of Higher Education, plus a state-registered level-7 (Master's) certification as a software engineering expert.
 
@@ -181,9 +224,13 @@ Mon **projet de fin d'études Epitech** — deux briques :
 
 <div align="center"><a href="https://orqea.dev"><img src="assets/orqea-board-en.png" alt="Orqea board" width="90%" /></a></div>
 
+- ⚔️ **[Ascendrya](https://ascendrya.com)** — my solo idle RPG for web, Windows and Android (Electron, Capacitor, CI). Pre-registrations open.
+- 📰 **[GachaPulse](https://gachapulse.com)** — gaming media co-created with Antoine, ~3.6k visitors/month. React · Fastify · PostgreSQL.
 - 💊 **PharmaXcess** — my Epitech capstone: a 24/7 medicine vending machine plus a companion mobile app.
-- 💡 **GlowPilot** — local-first Bluetooth LED controller (hardware-verified BLE protocol, Windows automation, Android). Electron · React · Capacitor.
+- 💡 **GlowPilot** — fun, still-buggy side project: a local-first Bluetooth LED controller (hardware-verified BLE protocol, Windows automation, Android). Electron · React · Capacitor.
 - ♟️ **ChessArena** — chess with tunable-thinking bots and a detailed Elo leaderboard, 100% test coverage.
+- ⚔️ **[Ascendrya](https://ascendrya.com)** — RPG idle pixel art (web, Windows, Android), **préinscriptions ouvertes**
+- 📰 **[GachaPulse](https://gachapulse.com)** — média gaming co-créé, **~3 600 visiteurs / mois**
 - 📱 **gymtrack** — FR/EN Android workout tracker (React + Capacitor).
 - 🧠 **AI side projects** — Deep Q-Learning Snake, Connect-4 minimax/alpha-beta, LLM-powered Wordle.
 
