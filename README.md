@@ -76,9 +76,9 @@ Un kanban classique branché sur vos outils (Jira, Trello, GitHub, votre modèle
 > **Un RPG idle en pixel art qui tourne dans un coin de ton écran pendant que tu fais autre chose.**
 
 <div align="center">
-<a href="assets/ascendrya-trailer.mp4"><img src="assets/ascendrya-trailer.gif" alt="Bande-annonce d'Ascendrya" width="90%" /></a>
+<a href="https://ascendrya.com/assets/uploads/video/mwwavo630d95-site.mp4"><img src="assets/ascendrya-trailer.gif" alt="Bande-annonce d'Ascendrya" width="90%" /></a>
 
-<sub>▶ <a href="assets/ascendrya-trailer.mp4">Voir la bande-annonce en vidéo (avec le son)</a></sub>
+<sub>▶ <a href="https://ascendrya.com/assets/uploads/video/mwwavo630d95-site.mp4">Voir la bande-annonce en vidéo (avec le son)</a></sub>
 
 [![Site](https://img.shields.io/badge/🌐_Site-ascendrya.com-f59e0b?style=for-the-badge&labelColor=0d1117)](https://ascendrya.com)
 &nbsp;
